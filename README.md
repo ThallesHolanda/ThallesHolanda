@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThallesHolanda
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Python and Data Science
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me thalles.holanda@outlook.com
